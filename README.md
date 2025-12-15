@@ -7,6 +7,7 @@
 3. [Event-Driven Microservices](https://array.udemy.com/course/event-driven-microservices-with-cqrs-saga-event-sourcing/learn/lecture/45934173?start=0#overview)
 4. [Load Balancing Concepts Course](https://javabrains.io/courses/load-balancing-concepts)
 5. [Cassandra Course](https://javabrains.io/courses/cassandra-essentials)
+6. [Implementing Software Architecture](https://array.udemy.com/course/implementing-software-architecture)
 
 ## 2. Theoretical
 
@@ -27,7 +28,12 @@
 5. [Software Architecture Essentials: Masterclass (بالعربي)](https://array.udemy.com/course/software-architecture-essentials/learn/lecture/48000465?start=0#overview)
 
 6. [Software Architecture: Design of Modern Large-Scale Systems](https://array.udemy.com/course/software-architecture-design-of-modern-large-scale-systems)
+7. [Microservices Architecture: Practical Guide (بالعربي)](https://www.udemy.com/course/microservices-architecture-the-deep-dive/)
+8. [Domain-Driven Design Explained: The Complete Guide (بالعربي)](https://www.udemy.com/course/practical-domain-driven-design)
 
+### 2.4. Tests
+1. [System Design - QA](https://array.udemy.com/course/software-architecture-system-design-practice-tests)
+   
 ## 3. Project Ideas
 
 1. Microservices-based E-commerce Platform
