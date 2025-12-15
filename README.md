@@ -16,7 +16,7 @@
 2. [Designing Data Intensive Applications](https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20(z-lib.org).pdf)
 3. [Refactoring, Improving the Design of Existing Code by Martin Fowler](https://dl.ebooksworld.ir/motoman/Refactoring.Improving.the.Design.of.Existing.Code.2nd.edition.www.EBooksWorld.ir.pdf)
 4. [Clean Architecture](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
-5. [Working Effictively with Unit Tests]()
+5. [Working Effictively with Unit Tests](https://www.academia.edu/40524872/Working_Effectively_with_Unit_Tests)
 6. [Domain Driven Design](https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf)
    
 ### 2.2. Podcasts
