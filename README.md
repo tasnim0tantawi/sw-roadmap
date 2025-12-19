@@ -20,22 +20,36 @@
 6. [Domain Driven Design](https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf)
    
 ### 2.2. Podcasts
+#### 2.2.1. Microservices
+1. [Microservices Communication Schemes](https://www.youtube.com/watch?v=NOlkoJ2P5zE)
+2. [Observability](https://www.youtube.com/watch?v=VetYFD0MlGI&list=PLTRDUPO2OmImfWPK4cSusvHoEV6KWeXNm)
+3. [Distributed Transactions](https://www.youtube.com/watch?v=Xu3zuEX12Rc)
+
+
+#### 2.2.2. Dev Ops
+1. [K8s](https://www.youtube.com/watch?v=-KkMu1U__UM&list=PLTRDUPO2OmIkjYojdSHi-q-F0GPJ15TAH)
+
+#### 2.2.3. Inspirational
+1. [My Journey to Google](https://www.youtube.com/watch?v=58InO1rhoLc)
 
 ### 2.3. Courses
 
+#### 2.3.1. Software Engineering
+
 1. [Software Architecture & System Design Practical Case Studies](https://array.udemy.com/course/software-architecture-system-design-practical-case-studies/learn/lecture/36759688?start=4)
-
 2. [API Design and Management - بالعربي](https://www.youtube.com/watch?v=C6m2tE2lCpw&list=PLgAqrVq84PDcOryFRPZmhXR_FwGauGtyv)
+3. [Software Architecture Essentials: Masterclass (بالعربي)](https://array.udemy.com/course/software-architecture-essentials/learn/lecture/48000465?start=0#overview)
+4. [Software Architecture: Design of Modern Large-Scale Systems](https://array.udemy.com/course/software-architecture-design-of-modern-large-scale-systems)
+5. [Microservices Architecture: Practical Guide (بالعربي)](https://www.udemy.com/course/microservices-architecture-the-deep-dive/)
+6. [Domain-Driven Design Explained: The Complete Guide (بالعربي)](https://www.udemy.com/course/practical-domain-driven-design)
 
-3. [Microservices Architecture in Arabic](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z)
+#### 2.3.2. Microservices
 
-4. [The Complete Microservices & Event-Driven Architecture](https://array.udemy.com/course/the-complete-microservices-event-driven-architecture/learn/lecture/38145126?start=0#overview)
+1. [Microservices Architecture in Arabic](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z)
 
-5. [Software Architecture Essentials: Masterclass (بالعربي)](https://array.udemy.com/course/software-architecture-essentials/learn/lecture/48000465?start=0#overview)
+2. [The Complete Microservices & Event-Driven Architecture](https://array.udemy.com/course/the-complete-microservices-event-driven-architecture/learn/lecture/38145126?start=0#overview)
 
-6. [Software Architecture: Design of Modern Large-Scale Systems](https://array.udemy.com/course/software-architecture-design-of-modern-large-scale-systems)
-7. [Microservices Architecture: Practical Guide (بالعربي)](https://www.udemy.com/course/microservices-architecture-the-deep-dive/)
-8. [Domain-Driven Design Explained: The Complete Guide (بالعربي)](https://www.udemy.com/course/practical-domain-driven-design)
+
 
 ### 2.4. Tests
 1. [System Design - QA](https://array.udemy.com/course/software-architecture-system-design-practice-tests)
