@@ -2,12 +2,30 @@
 
 ## 1. Practical
 
+### 1.1. Microservice and Event-driven Architecture
+
 1. [Microservices Udemy Course](https://array.udemy.com/course/master-microservices-with-spring-docker-kubernetes/learn/lecture/39944846?start=57#overview)
 2. [Kafka Udemy Course](https://array.udemy.com/course/apache-kafka-for-spring-boot-microservices/learn/lecture/40065628?start=0#overview)
 3. [Event-Driven Microservices](https://array.udemy.com/course/event-driven-microservices-with-cqrs-saga-event-sourcing/learn/lecture/45934173?start=0#overview)
 4. [Load Balancing Concepts Course](https://javabrains.io/courses/load-balancing-concepts)
-5. [Cassandra Course](https://javabrains.io/courses/cassandra-essentials)
-6. [Implementing Software Architecture](https://array.udemy.com/course/implementing-software-architecture)
+
+### 1.2. Java
+
+1. [Reactive Java](https://array.udemy.com/course/complete-java-reactive-programming)
+2. [Java 8 to 25 - Certification](https://array.udemy.com/course/ocp11_from_oca8)
+3. [Java Best Practices](https://array.udemy.com/course/java-best-practices)
+
+
+### 1.3. Spring Boot
+1. [Reactive Spring Boot]()
+2. [Spring AI]()
+3. [
+
+### 1.4. Database
+
+1. [Cassandra Course](https://javabrains.io/courses/cassandra-essentials)
+2. [Reactive Redis](https://array.udemy.com/course/spring-webflux-redis)
+
 
 ## 2. Theoretical
 
