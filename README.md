@@ -22,7 +22,6 @@
 ### 1.3. Spring Boot
 1. [Reactive Spring Boot](https://array.udemy.com/course/spring-webflux/)
 2. [Spring AI](https://array.udemy.com/course/java-spring-ai/)
-3. [
 
 ### 1.4. Database
 
