@@ -8,6 +8,9 @@
 2. [Kafka Udemy Course](https://array.udemy.com/course/apache-kafka-for-spring-boot-microservices/learn/lecture/40065628?start=0#overview)
 3. [Event-Driven Microservices](https://array.udemy.com/course/event-driven-microservices-with-cqrs-saga-event-sourcing/learn/lecture/45934173?start=0#overview)
 4. [Load Balancing Concepts Course](https://javabrains.io/courses/load-balancing-concepts)
+5. [Spring Microservice Observability]()
+6. [Spring Microservice Resiliency Patterns](https://array.udemy.com/course/spring-webflux-patterns/)
+7. [Spring gRPC]()
 
 ### 1.2. Java
 
@@ -18,13 +21,14 @@
 
 ### 1.3. Spring Boot
 1. [Reactive Spring Boot]()
-2. [Spring AI]()
+2. [Spring AI](https://array.udemy.com/course/java-spring-ai/)
 3. [
 
 ### 1.4. Database
 
 1. [Cassandra Course](https://javabrains.io/courses/cassandra-essentials)
 2. [Reactive Redis](https://array.udemy.com/course/spring-webflux-redis)
+3. [Elastic Search]()
 
 
 ## 2. Theoretical
@@ -87,7 +91,7 @@
 
 1. [VS Code]
 2. [IntelliJ IDEA]
-3. [Docker]
-4. [Kubernetes]
+3. [Docker](https://array.udemy.com/course/docker-from-zero-to-hero-arabic/)
+4. [Kubernetes](https://array.udemy.com/course/kubernetes-from-beginner-to-master-arabic/)
 5. [AWS]
 6. [Linux]
