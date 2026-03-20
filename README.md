@@ -10,7 +10,7 @@
 4. [Load Balancing Concepts Course](https://javabrains.io/courses/load-balancing-concepts)
 5. [Spring Microservice Observability]()
 6. [Spring Microservice Resiliency Patterns](https://array.udemy.com/course/spring-webflux-patterns/)
-7. [Spring gRPC]()
+7. [Spring gRPC](https://array.udemy.com/course/grpc-the-complete-guide-for-java-developers/)
 
 ### 1.2. Java
 
@@ -20,7 +20,7 @@
 
 
 ### 1.3. Spring Boot
-1. [Reactive Spring Boot]()
+1. [Reactive Spring Boot](https://array.udemy.com/course/spring-webflux/)
 2. [Spring AI](https://array.udemy.com/course/java-spring-ai/)
 3. [
 
@@ -28,7 +28,7 @@
 
 1. [Cassandra Course](https://javabrains.io/courses/cassandra-essentials)
 2. [Reactive Redis](https://array.udemy.com/course/spring-webflux-redis)
-3. [Elastic Search]()
+3. [Elastic Search](https://array.udemy.com/course/elasticsearch-java)
 
 
 ## 2. Theoretical
